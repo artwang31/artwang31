@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My interests revolve around employing data mining, analytics, and applied machine learning to measure and predict outcomes.
+
+
+
+
 <!--
 **artwang31/artwang31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
