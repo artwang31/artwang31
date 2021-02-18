@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-My interests revolve around employing data mining, analytics, and applied machine learning to measure and predict outcomes.
 
 
 
