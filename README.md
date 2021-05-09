@@ -4,7 +4,7 @@ Thank you for visiting my GitHub page! My interests revolve around employing dat
 
 Please feel free to connect with me and let's collaborate on some projects! 
 
-contact: artemaswang@gmail.com 
+contact me: artemaswang@gmail.com 
 
 
 
