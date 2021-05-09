@@ -2,9 +2,9 @@
 
 Thank you for visiting my GitHub page! My interests revolve around employing data mining, analytics, and applied machine learning to measure and predict outcomes. 
 
-Please feel free to connect with me and let's collaborate on some projects! 
+Please feel free to connect with me and let's collaborate on some projects.
 
-contact me: artemaswang@gmail.com 
+contact me!: artemaswang@gmail.com 
 
 
 
