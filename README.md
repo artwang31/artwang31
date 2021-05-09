@@ -4,7 +4,7 @@ Thank you for visiting my GitHub! My interests revolve around employing data min
 
 Please feel free to connect with me and let's collaborate on some projects! 
 
-contact: artemaswang@gmail.com
+contact: artemaswang@gmail.com 
 
 
 
